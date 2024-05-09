@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Prabhat</h1>
-<h3 align="center">SDE @ <a href="https://fello.in/"> Fello </a> </h3>
+<h3 align="center">SDE 2 @ <a href="https://fello.in/"> Fello </a> </h3>
 <h3 align="center">Full Stack Developer and Tech Enthusiast</h3>
 
 <br/>
