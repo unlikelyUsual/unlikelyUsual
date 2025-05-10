@@ -8,7 +8,7 @@ Hi, I'm [Prabhat Kumar](https://unlikelyusual.github.io/portfolio/) , a Full Sta
 
   - 🌱 I’m currently learning Ruby | NextJs
   - 📫 Reach me at **kumarprabhat308@gmail.com**
-  - 📝 Resume - [Resume](https://drive.google.com/file/d/1jIVz1NHRtF3zlJ8jCpohBx7aJov3BOru/view)
+  - 📝 Resume - [Resume](https://drive.google.com/file/d/1Ez7wC2sTD3djsyMY811vrgzmsHLS9oRm/view?usp=drive_link)
   - 🏢 Let's Connect -  [LinkedIn](https://www.linkedin.com/in/prabhat-kumar-b3283012b/)
   - 🌐 Check My Blogs - [Website](https://prabhatkumar.dev/)
 
