@@ -6,7 +6,7 @@
 
 Hi, I'm [Prabhat Kumar](https://unlikelyusual.github.io/portfolio/) , a Full Stack Developer with more than 6 years of dedicated professional experience in the software development realm, I've garnered extensive exposure to a wide array of end-to-end development solutions.
 
-  - 🌱 I’m currently learning Ruby | NextJs
+  - 🌱 I’m currently learning Go | Python
   - 📫 Reach me at **kumarprabhat308@gmail.com**
   - 📝 Resume - [Resume](https://drive.google.com/file/d/1Ez7wC2sTD3djsyMY811vrgzmsHLS9oRm/view?usp=drive_link)
   - 🏢 Let's Connect -  [LinkedIn](https://www.linkedin.com/in/prabhat-kumar-b3283012b/)
