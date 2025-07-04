@@ -65,7 +65,7 @@ class PrabhatKumar:
 
 ### ⚙️ **Backend Sorcery**
 
-<img src="https://skillicons.dev/icons?i=nodejs,graphql,apollo,prisma,express,python,go,cpp" />
+<img src="https://skillicons.dev/icons?i=nodejs,graphql,apollo,prisma,express,python,go" />
 
 ### 🗄️ **Database Mastery**
 
@@ -84,9 +84,7 @@ class PrabhatKumar:
 
 ### 🔧 **Tools & More**
 
-<img src="https://skillicons.dev/icons?i=vscode,postman,figma,linux" />
-![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white)
-
+<img src="https://skillicons.dev/icons?i=vscode,postman,linux" />
 </div>
 
 ---
@@ -171,9 +169,7 @@ const currentProjects = {
 
 // 2025 Goals 🎯
 const goals2025 = [
-  "🏆 AWS Solutions Architect Certification",
-  "🎤 Tech Conference Speaker",
-  "📚 Publish Technical Articles",
+  "📚 Publish More Technical Articles",
   "🌟 Contribute to Major Open Source Projects",
 ];
 ```
