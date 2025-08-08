@@ -44,8 +44,8 @@ class PrabhatKumar:
 ### 🎯 **Quick Stats**
 
 - 🏢 **Currently:** Senior SDE @ DeleteMe
-- 🌱 **Learning:** Go, Python ML, System Design
-- 💡 **Interests:** AI/ML, Web3, Cloud Architecture
+- 🌱 **Learning:** System Design, AI
+- 💡 **Interests:** AI/ML, Scaling backend
 - 📝 **Blogger:** Tech insights & tutorials
 - 🤝 **Open to:** Collaborations & mentoring
 
