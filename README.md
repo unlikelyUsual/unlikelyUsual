@@ -228,17 +228,18 @@ Other        █░░░░░░░░░░░░░░░░░░░░░�
 <td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/96/000000/portfolio.png" width="64"/>
 <br><strong>Portfolio</strong>
-<br><a href="https://unlikelyusual.github.io/portfolio/">Visit My Work</a>
+<!-- <br><a href="https://unlikelyusual.github.io/portfolio/">Visit My Work</a> -->
+<br><a href="https://prabhatkumar.dev/">See More</a>
 </td>
 <td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/96/000000/linkedin.png" width="64"/>
 <br><strong>LinkedIn</strong>
-<br><a href="https://www.linkedin.com/in/prabhat-kumar-b3283012b/">Let's Connect</a>
+<br><a href="https://www.linkedin.com/in/prabhat-kumar-b3283012b/">Connect</a>
 </td>
 <td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/96/000000/blog.png" width="64"/>
 <br><strong>Tech Blog</strong>
-<br><a href="https://prabhatkumar.dev/">Read Articles</a>
+<br><a href="https://prabhatkumar.dev/posts/">Read Articles</a>
 </td>
 <td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/96/000000/gmail.png" width="64"/>
