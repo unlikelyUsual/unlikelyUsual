@@ -14,26 +14,33 @@
 <tr>
 <td width="50%">
 
-```python
-class PrabhatKumar:
-    def __init__(self):
-        self.name = "Prabhat Kumar"
-        self.role = "Senior Software Engineer"
-        self.company = "DeleteMe"
-        self.location = "India 🇮🇳"
-        self.experience = "6+ years"
-        self.passion = ["Clean Code", "Innovation", "AI"]
+```typescript
+class PrabhatKumar {
+  name: string = "Prabhat Kumar";
+  role: string = "SDE2";
+  company: string = "DeleteMe";
+  location: string = "Bangalore 🇮🇳";
+  experience: string = "6+ years";
+  passion: string[] = ["Clean Code", "Innovation", "Learning"];
 
-    def current_mission(self):
-        return {
-            "building": "AI-powered automation tools",
-            "learning": ["Go", "Advanced Python", "ML"],
-            "exploring": "System Design & Architecture",
-            "contributing": "Open Source Community"
-        }
+  current_mission(): {
+    building: string;
+    learning: string[];
+    exploring: string;
+    contributing: string;
+  } {
+    return {
+      building: "AI-powered automation tools",
+      learning: ["AI", "Bun.js", "Building new things"],
+      exploring: "System Design & Architecture",
+      contributing: "Open Source Community",
+    };
+  }
 
-    def life_motto(self):
-        return "Code with purpose, innovate with passion! 🚀"
+  life_motto(): string {
+    return "Code with purpose, innovate with passion! 🚀";
+  }
+}
 ```
 
 </td>
