@@ -280,10 +280,6 @@ Other        █░░░░░░░░░░░░░░░░░░░░░�
 
 <img src="https://readme-jokes.vercel.app/api?theme=synthwave" alt="Jokes Card" />
 
-### 🎵 **Currently Vibing To**
-
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=31k6rlzwxkjb5wogz2qj2qjbqj4a&unique=true" alt="Spotify" />
-
 ### 🌈 **Mood Board**
 
 ```
