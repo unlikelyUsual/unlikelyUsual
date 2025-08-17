@@ -209,10 +209,6 @@ Other        █░░░░░░░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-### 📊 **Contribution Heatmap**
-
-![Snake animation](https://github.com/unlikelyUsual/unlikelyUsual/blob/output/github-contribution-grid-snake-dark.svg)
-
 </div>
 
 ---
