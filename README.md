@@ -157,20 +157,15 @@ class PrabhatKumar {
 
 ```javascript
 const currentProjects = {
-  "🤖 AI Automation Suite": {
+  "Text Editor with collaboration": {
     status: "🟢 Active Development",
-    tech: ["Python", "OpenAI", "FastAPI", "Docker"],
-    description: "Building intelligent automation tools",
+    tech: ["Javascript", "Bun", "React", "Docker"],
+    description: "Building collaborative text editor",
   },
-  "🌐 Full Stack SaaS": {
-    status: "🟡 In Progress",
-    tech: ["Next.js", "Prisma", "PostgreSQL", "Vercel"],
-    description: "Scalable web application with modern architecture",
-  },
-  "📱 Chat Bot Platform": {
+  "Codecraft challenge": {
     status: "🟢 Active",
-    tech: ["Node.js", "TypeScript", "AI Integration"],
-    description: "Intelligent conversational AI system",
+    tech: ["Node.js", "TypeScript", "Javascript"],
+    description: "Building things from scratch like redis, kafka",
   },
 };
 
