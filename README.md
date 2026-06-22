@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Prabhat%20Kumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=500&color=00F5FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🚀+Senior+Software+Engineer+%40+DeleteMe;💻+Full+Stack+Wizard;🎯+6%2B+Years+of+Code+Mastery;🌈+Turning+Ideas+into+Digital+Reality" alt="Dynamic Intro" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=500&color=00F5FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🚀+Senior+Software+Engineer+%40+Agoda;💻+Full+Stack+Wizard;🎯+6%2B+Years+of+Code+Mastery;🌈+Turning+Ideas+into+Digital+Reality" alt="Dynamic Intro" />
 
 ---
 
