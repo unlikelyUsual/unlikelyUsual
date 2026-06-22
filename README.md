@@ -18,8 +18,8 @@
 class PrabhatKumar {
   name: string = "Prabhat Kumar";
   role: string = "SDE2";
-  company: string = "DeleteMe";
-  location: string = "Bangalore 🇮🇳";
+  company: string = "Agoda";
+  location: string = "Bangkok 🇹🇭";
   experience: string = "6+ years";
   passion: string[] = ["Clean Code", "Innovation", "Learning"];
 
