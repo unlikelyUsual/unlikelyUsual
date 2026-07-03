@@ -50,7 +50,7 @@ class PrabhatKumar {
 
 ### 🎯 **Quick Stats**
 
-- 🏢 **Currently:** Senior SDE @ DeleteMe
+- 🏢 **Currently:** Senior SDE @ Agoda
 - 🌱 **Learning:** System Design, AI
 - 💡 **Interests:** AI/ML, Scaling backend
 - 📝 **Blogger:** Tech insights & tutorials
